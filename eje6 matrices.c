@@ -1,7 +1,7 @@
 #include <stdio.h>
 	
 	int main() {
-	float matriz[20][6];
+	float matriz[20][6]={0};//completamos con 0 toda la matriz
 	float suma=0;
 	float promedio=0;
 	

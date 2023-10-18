@@ -2,7 +2,7 @@
 
 int main() {
 	
-	int matriz[2][3];
+	int matriz[2][3]={0};
 	int i=0,j=0;
 	
 	printf ("ingrese valores:\n");
